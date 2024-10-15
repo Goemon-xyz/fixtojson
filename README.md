@@ -26,7 +26,7 @@ FIX protocol messages are widely used in financial trading systems but can be di
 
 ## Installation
 
-To install FIXtoJSON, use `go get`:
+To install FIXtoJSON, use `go get -u github.com/goemon-xyz/fixtojson@latest`
 
 ## Contributing
 
