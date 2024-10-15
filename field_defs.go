@@ -1,4 +1,4 @@
-package fixjson
+package fixtojson
 
 import (
 	"github.com/quickfixgo/quickfix"
